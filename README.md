@@ -9,9 +9,9 @@
 
 ### 🧠 Sobre mí
 - 🔭 Actualmente estoy desarrollando proyectos con **React + Node.js**
-- 🌱 Aprendiendo constantemente sobre **DevOps, Docker y Testing**
+- 🌱 Aprendiendo constantemente sobre **DevOps, Docker, Testing, y Python**
 - 💼 Buscando oportunidades como **Freelancer o Full Stack Dev**
-- 📫 Contactame en: **nicolasromero.dev@gmail.com**
+- 📫 Contactame en: **nicromeroe@gmail.com**
 
 ---
 
