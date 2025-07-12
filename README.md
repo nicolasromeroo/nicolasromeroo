@@ -15,9 +15,9 @@
 
 ---
 
-### 🛠️ Tecnologías que uso
+### Tecnologías que uso
 
-#### 💻 Frontend
+#### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-#### 🧠 Backend
+#### Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -37,13 +37,13 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
 
-#### 🧪 Testing
+#### Testing
 <p>
   <img src="https://img.shields.io/badge/Unit%20Testing-15c213?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supertest-333?style=for-the-badge" />
 </p>
 
-#### 🛠️ Herramientas y DevOps
+#### Herramientas y DevOps
 <p>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 Estadísticas
+### Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasromeroo&show_icons=true&theme=radical" />
@@ -63,7 +63,7 @@
 
 ---
 
-### 🌐 Redes
+### Redes
 
 <p>
   <a href="www.linkedin.com/in/nicolas-romero-7465572b1" target="_blank">
