@@ -1,56 +1,32 @@
-<h1 align="center">Hola 👋, soy Nicolás Romero</h1>
-<h3 align="center">Full Stack MERN Developer | Amante de las soluciones digitales</h3>
+<h1 align="center">Hola 👋, soy Nicolás Romero</h1> <h3 align="center">Backend Node.js Developer | Especialista en Express & NestJS 🚀</h3> <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nicolasromeroo&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasromeroo" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicolasromeroo&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasromeroo" />
-</p>
 
 ---
 
-###  SOBRE MÍ
-- Actualmente estoy desarrollando proyectos con **React + Node.js**
-- Aprendiendo constantemente sobre **DevOps, Docker, Testing, y Python**
-- Buscando oportunidades como **Freelancer o Full Stack Dev**
-- Contactame en: **nicromeroe@gmail.com**
+###  Sobre mí
+
+Desarrollador Backend especializado en Node.js, Express y NestJS, con experiencia construyendo APIs escalables, seguras y mantenibles.
+Experiencia práctica con Prisma ORM, PostgreSQL, JWT, Docker y entornos CI/CD.
+Apasionado por el diseño de arquitecturas limpias, la optimización de rendimiento, y las buenas prácticas de testing e integración continua.
+En constante aprendizaje sobre Microservicios, WebSockets, y Cloud (AWS / Railway / Render).
+Buscando oportunidades como Backend Developer | Node.js / NestJS.
+
+📩 Contacto: nicromeroe@gmail.com
 
 ---
 
 ### Tecnologías que uso
 
-#### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-#### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firestore-ffca28?style=for-the-badge&logo=Firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-</p>
-
-#### Testing
-<p>
-  <img src="https://img.shields.io/badge/Unit%20Testing-15c213?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supertest-333?style=for-the-badge" />
-</p>
-
-#### Herramientas y DevOps
-<p>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+#### Stack Tecnológico
+🖥️ Backend
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=socketdotio&logoColor=white" /> </p>
+🧩 Frontend (Complementario)
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
+🧪 Testing
+<p> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Supertest-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+⚙️ DevOps & Tools
+<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> </p>
 
 ---
 
