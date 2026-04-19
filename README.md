@@ -7,9 +7,9 @@
 
 ---
 
-# 🇪🇸 Perfil Profesional
+# Perfil
 
-## 🧠 Sobre mí
+## Sobre mí
 
 Desarrollador Backend especializado en **Node.js y NestJS**, enfocado en la construcción de **APIs escalables, seguras y mantenibles**.
 
@@ -29,7 +29,7 @@ Actualmente trabajando en:
 
 ---
 
-## ⚙️ Tecnologías Clave
+## Tecnologías Clave
 
 **Backend:** Node.js, NestJS, Express
 **Arquitectura:** Clean Architecture, EDA, Modular Design
@@ -42,7 +42,7 @@ Actualmente trabajando en:
 
 ---
 
-## 💼 Qué puedo aportar
+## Qué puedo aportar
 
 * Diseño de **APIs robustas y escalables**
 * Implementación de **arquitecturas limpias y mantenibles**
@@ -53,9 +53,9 @@ Actualmente trabajando en:
 
 ---
 
-# 🇺🇸 Professional Profile
+# Professional Profile
 
-## 🧠 About Me
+## About Me
 
 Backend Developer specialized in **Node.js and NestJS**, focused on building **scalable, secure, and maintainable APIs**.
 
@@ -75,7 +75,7 @@ Currently working on:
 
 ---
 
-## ⚙️ Core Technologies
+## Core Technologies
 
 **Backend:** Node.js, NestJS, Express
 **Architecture:** Clean Architecture, EDA, Modular Design
@@ -88,7 +88,7 @@ Currently working on:
 
 ---
 
-## 💼 What I Bring
+## What I Bring
 
 * Design of **scalable and robust APIs**
 * Clean and maintainable backend architectures
@@ -99,7 +99,7 @@ Currently working on:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasromeroo&show_icons=true&theme=radical" />
@@ -108,7 +108,7 @@ Currently working on:
 
 ---
 
-## 🌐 Contact
+## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/nicolas-romero-7465572b1" target="_blank">
