@@ -1,36 +1,105 @@
-<h1 align="center">Hola 👋, soy Nicolás Romero</h1> <h3 align="center">Backend Node.js Developer | Especialista en Express & NestJS 🚀</h3> <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nicolasromeroo&label=Profile%20views&color=0e75b6&style=flat" alt="nicolasromeroo" /> </p>
+<h1 align="center">Nicolás Romero</h1>
+<h3 align="center">Backend Engineer | Node.js & NestJS | Scalable Systems 🚀</h3>
 
-
----
-
-###  Sobre mí
-
-Desarrollador Backend especializado en Node.js, Express y NestJS, con experiencia construyendo APIs escalables, seguras y mantenibles.
-Experiencia práctica con Prisma ORM, PostgreSQL, JWT, Docker y entornos CI/CD.
-Apasionado por el diseño de arquitecturas limpias, la optimización de rendimiento, y las buenas prácticas de testing e integración continua.
-En constante aprendizaje sobre Microservicios, WebSockets, y Cloud (AWS / Railway / Render).
-Buscando oportunidades como Backend Developer | Node.js / NestJS.
-
-📩 Contacto: nicromeroe@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nicolasromeroo&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### Tecnologías que uso
+# 🇪🇸 Perfil Profesional
 
-#### Stack Tecnológico
-🖥️ Backend
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=socketdotio&logoColor=white" /> </p>
-🧩 Frontend 
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
-🧪 Testing
-<p> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Supertest-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
-⚙️ DevOps & Tools
-<p> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> </p>
+## 🧠 Sobre mí
+
+Desarrollador Backend especializado en **Node.js y NestJS**, enfocado en la construcción de **APIs escalables, seguras y mantenibles**.
+
+Experiencia desarrollando sistemas con:
+
+* Arquitectura modular y **Event-Driven Architecture (EDA)**
+* Lógica de negocio compleja
+* Autenticación y autorización (**JWT, control de acceso**)
+* Integración de pagos (**Stripe, webhooks**)
+* Sistemas orientados a métricas, estadísticas y automatización
+
+Actualmente trabajando en:
+
+* Integración de **Machine Learning en backend** (TensorFlow + Node.js)
+* Sistemas inteligentes basados en eventos
+* Procesamiento de datos y predicción
 
 ---
 
-### Estadísticas
+## ⚙️ Tecnologías Clave
+
+**Backend:** Node.js, NestJS, Express
+**Arquitectura:** Clean Architecture, EDA, Modular Design
+**Bases de Datos:** PostgreSQL, SQLite
+**Seguridad:** JWT, autenticación y autorización
+**Integraciones:** Stripe API, Webhooks
+**Tiempo Real:** WebSockets
+**Testing:** Jest, Supertest
+**DevOps & Tools:** Docker, Git, GitHub, Swagger
+
+---
+
+## 💼 Qué puedo aportar
+
+* Diseño de **APIs robustas y escalables**
+* Implementación de **arquitecturas limpias y mantenibles**
+* Desarrollo de sistemas **event-driven**
+* Integración de servicios externos (pagos, APIs)
+* Optimización de lógica de negocio y rendimiento
+* Enfoque en calidad: testing, documentación y buenas prácticas
+
+---
+
+# 🇺🇸 Professional Profile
+
+## 🧠 About Me
+
+Backend Developer specialized in **Node.js and NestJS**, focused on building **scalable, secure, and maintainable APIs**.
+
+Experience developing systems with:
+
+* Modular architecture and **Event-Driven Architecture (EDA)**
+* Complex business logic
+* Authentication & authorization (**JWT, access control**)
+* Payment integrations (**Stripe, webhooks**)
+* Metrics-driven systems, automation and data processing
+
+Currently working on:
+
+* **Machine Learning integration in backend systems** (TensorFlow + Node.js)
+* Event-driven intelligent systems
+* Data analysis and prediction
+
+---
+
+## ⚙️ Core Technologies
+
+**Backend:** Node.js, NestJS, Express
+**Architecture:** Clean Architecture, EDA, Modular Design
+**Databases:** PostgreSQL, SQLite
+**Security:** JWT, authentication & authorization
+**Integrations:** Stripe API, Webhooks
+**Realtime:** WebSockets
+**Testing:** Jest, Supertest
+**DevOps & Tools:** Docker, Git, GitHub, Swagger
+
+---
+
+## 💼 What I Bring
+
+* Design of **scalable and robust APIs**
+* Clean and maintainable backend architectures
+* Event-driven system design
+* Third-party integrations (payments, APIs)
+* Business logic optimization
+* Quality-focused development (testing, documentation, best practices)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolasromeroo&show_icons=true&theme=radical" />
@@ -39,13 +108,15 @@ Buscando oportunidades como Backend Developer | Node.js / NestJS.
 
 ---
 
-### Redes
+## 🌐 Contact
 
 <p>
-  <a href="www.linkedin.com/in/nicolas-romero-7465572b1" target="_blank">
+  <a href="https://www.linkedin.com/in/nicolas-romero-7465572b1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://mi-portafolio-chi-inky.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
   </a>
 </p>
+
+📩 Email: **[nicromeroe@gmail.com](mailto:nicromeroe@gmail.com)**
