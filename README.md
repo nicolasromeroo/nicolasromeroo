@@ -31,6 +31,17 @@ Actualmente continúo profundizando conocimientos en:
 
 ---
 
+## 💡 Experiencia de Negocio
+
+Además del desarrollo de software, tengo experiencia construyendo soluciones para procesos empresariales reales, especialmente en:
+
+- Gestión de inventario y stock
+- Logística y recepción de mercadería
+- Sistemas administrativos
+- E-commerce
+- Automatización de procesos
+- Paneles de gestión y métricas
+
 # 🚀 Stack Principal
 
 ### Backend
