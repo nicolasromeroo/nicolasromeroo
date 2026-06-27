@@ -1,37 +1,37 @@
+
 <h1 align="center">Nicolás Romero</h1>
 
 <h3 align="center">
-Building scalable backend systems with Node.js, NestJS and modern software architecture.
+Backend Engineer | Node.js • NestJS • Arquitectura de Software
 </h3>
 
 <p align="center">
-Building scalable backend applications, APIs and business systems.
+Construyendo APIs, sistemas escalables y soluciones orientadas a negocio.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nicolasromeroo&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=nicolasromeroo&label=Visitas&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## About Me
+# 👋 Sobre mí
 
-I'm a Backend Developer focused on building scalable, maintainable and production-ready applications.
+Soy desarrollador **Backend** especializado en **Node.js** y **NestJS**, con experiencia desarrollando APIs REST, sistemas de gestión, plataformas e-commerce y aplicaciones web completas.
 
-My main experience is centered around **Node.js**, **NestJS** and **PostgreSQL**, developing REST APIs, business systems, internal platforms and e-commerce solutions.
+Disfruto diseñar software que pueda crecer con el tiempo, aplicando principios de arquitectura modular, separación de responsabilidades y buenas prácticas de ingeniería.
 
-I enjoy designing software architectures that remain clean as projects grow, applying principles such as modular architecture, CQRS, event-driven communication and clean code.
+Actualmente continúo profundizando conocimientos en:
 
-Currently I'm expanding my knowledge in:
-
-- Distributed systems
-- Software Architecture
+- Arquitectura de Software
+- CQRS y Event-Driven Architecture
+- Sistemas Distribuidos
 - DevOps
-- Machine Learning applied to backend services
+- Inteligencia Artificial aplicada al desarrollo de software
 
 ---
 
-## Tech Stack
+# 🚀 Stack Principal
 
 ### Backend
 
@@ -39,21 +39,26 @@ Currently I'm expanding my knowledge in:
 - NestJS
 - Express
 
-### Databases
+### Frontend
+
+- React
+- Next.js
+
+### Bases de Datos
 
 - PostgreSQL
 - MongoDB
 - Prisma ORM
 
-### Architecture
+### Arquitectura
 
-- Modular Architecture
+- APIs REST
 - CQRS
 - Event-Driven Architecture
-- REST APIs
+- Arquitectura Modular
 - WebSockets
 
-### DevOps & Tools
+### Herramientas
 
 - Docker
 - Git
@@ -63,41 +68,40 @@ Currently I'm expanding my knowledge in:
 
 ---
 
-## Featured Projects
+# 💼 En qué trabajo
 
-- Financial Management Platform
-- E-commerce Platform
-- ERP & Inventory Systems
-- Business Management Applications
+Me especializo en el desarrollo de:
 
-More projects are available in my repositories.
+- APIs REST escalables
+- Sistemas de gestión empresarial
+- Plataformas e-commerce
+- Paneles administrativos
+- Automatización de procesos
+- Integraciones con servicios externos (Stripe, Webhooks, etc.)
+
+Siempre con foco en código mantenible, buenas prácticas y escalabilidad.
 
 ---
 
-## GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasromeroo&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasromeroo&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasromeroo&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasromeroo&theme=tokyonight"/>
 </p>
 
 ---
 
-## Contact
+# 📫 Contacto
 
-<p align="left">
+<p>
+  <a href="https://www.linkedin.com/in/nicolas-romero-7465572b1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/nicolas-romero-7465572b1">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://mi-portafolio-chi-inky.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://mi-portafolio-chi-inky.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 📩 **nicromeroe@gmail.com**
