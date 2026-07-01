@@ -106,7 +106,7 @@ Siempre con foco en código mantenible, buenas prácticas y escalabilidad.
 # 📫 Contacto
 
 <p>
-  <a href="https://www.linkedin.com/in/nicolas-romero-7465572b1">
+  <a href="https://www.linkedin.com/in/nicromeroe">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 
